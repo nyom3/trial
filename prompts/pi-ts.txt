@@ -1,0 +1,15 @@
+Context: TypeScript, running in Node.js 20 environment.
+
+Task:
+Write a TypeScript program that calculates an approximation of pi (π) using the Monte Carlo method. 
+The program should:
+
+- Accept the number of iterations (points) as a command line argument.
+- Output the estimated value of pi to the console.
+
+Also include:
+
+- Comments explaining each step.
+- An example run command using ts-node.
+
+Output only the complete TypeScript source code (with no extra explanation).
